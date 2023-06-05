@@ -6,7 +6,7 @@
   <title>Git Test</title>
 </head>
 <body>
-  <h3 style="color: red">This is a sample Heading</h3>
+  <h3>This is a sample Heading</h3>
   <p>Welcome to Git Test on VSCode!</p>
   <p>You can write it from GITHUB.com site.</p>
 </body>
